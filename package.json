@@ -1,0 +1,51 @@
+{
+  "name": "@infinitywallet/crypto-phishing-detector",
+  "description": "Crypto phishing & scam list and detector utility for URLs and Smart Contracts",
+  "version": "1.0.1",
+  "homepage": "https://infinitywallet.io",
+  "author": "Infinity Wallet",
+  "keywords": [
+    "infinity wallet",
+    "crypto",
+    "phishing",
+    "security",
+    "eth",
+    "ethereum",
+    "bsc",
+    "bnbchain",
+    "crypto security",
+    "ERC20",
+    "ERC721",
+    "ERC1155",
+    "smart contract",
+    "Fungible Token",
+    "NFT",
+    "avax",
+    "avalanche",
+    "optimism",
+    "solana",
+    "NFT",
+    "crypto blacklist",
+    "crypto blocklist",
+    "crypto whitelist",
+    "erc20 blacklist",
+    "erc20 whitelist"
+  ],
+  "type": "commonjs",
+  "main": "./src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/InfinityWallet/crypto-phishing-detector"
+  },
+  "scripts": {
+    "format": "node ./helpers/format.js"
+  },
+  "devDependencies": {
+    "axios": "^0.27.2",
+    "js-yaml": "^4.1.0"
+  },
+  "bugs": {
+    "url": "https://github.com/InfinityWallet/crypto-phishing-detector/issues"
+  },
+  "license": "MIT"
+}

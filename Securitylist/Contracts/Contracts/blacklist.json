@@ -1,0 +1,20 @@
+{
+  "NFTS":{
+    "contract_address":{
+      "name":"",
+      "reason": ""
+    }
+  },
+  "TOKENS":{
+    "contract_address":{
+      "name":"",
+      "reason": ""
+    }
+  },
+  "CONTRACTS":{
+    "contract_address":{
+      "name":"",
+      "reason": ""
+    }
+  }
+}

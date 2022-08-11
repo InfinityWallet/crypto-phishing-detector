@@ -1,0 +1,23 @@
+{
+  "url":"infinitycrypto.com"
+  "created": 1660065745,
+  "lastUpdate": 1660065762,
+  "chains":{
+    "bsc":{
+      "contracts": [
+        {
+          "contract":"0x6Cc587515137EE5b89EbD0B25Cc5Fc2b93015357",
+          "name":"Infinity Factory Contract"
+        },
+        {
+          "contract":"0xeB1c0EfE6655E019E2c6AB01e0Bd0c97f4899A4e",
+          "name":"Infinity Router Contract"
+        },
+        {
+          "contract":"0x58e3e2061c7dc94e06CE9E36c3Db0E5687d88f12",
+          "name":"Infinity Rewards Contract"
+        }
+      ]
+    }
+  }
+}
