@@ -51,8 +51,8 @@ console.log(urlToCheck)
 This example allows you to pass an object with the whitelist and blacklist. You can pull the lists (directly from github, your own list, hosted api or anywhere else) and then pass the object in the correct format to the urlToCheck function as in the example below.
 
 If you want to use the latest github lists then use the following url:
-Whitelist: https://cdn.jsdelivr.net/gh/InfinityWallet/crypto-phishing-detector@main/Securitylist/Urls/whitelist.json
-Blacklist: https://cdn.jsdelivr.net/gh/InfinityWallet/crypto-phishing-detector@main/Securitylist/Urls/blacklist.json
+- Whitelist: https://cdn.jsdelivr.net/gh/InfinityWallet/crypto-phishing-detector@main/Securitylist/Urls/whitelist.json
+- Blacklist: https://cdn.jsdelivr.net/gh/InfinityWallet/crypto-phishing-detector@main/Securitylist/Urls/blacklist.json
 
 The urlToCheck function for advanced usuage should be used in the following way ```checkDomain(URL_TO_CHECK, "custom", LIST_TO_CHECK)``` as shown in the example below:
 ```js
